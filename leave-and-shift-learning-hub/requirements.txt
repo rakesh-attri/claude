@@ -1,2 +1,0 @@
-markdown-it-py==4.0.0
-bleach==6.2.0
